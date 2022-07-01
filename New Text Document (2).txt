@@ -1,23 +1,0 @@
-useradd Harry
-passwd harry123
-harry123
-touch mumbai oregon ohiovi mumbaiap-south-1
-vi ohio
-us-east-1vi oregonus-west-1sudo su
-find / -iname oregon -fprint regionAZ
-find / - iname ohio -exec cat ohio {} \;
-find / -iname mumbai -fprint -exec echo "this is my country az for aws service" >> mumbai {} \;
-
-or 
-1. cd   
-2.  useradd harry    
-3.  passwd harry    
-4.  su harry    
-5. find /home/harry -iname oregon -fprint regionAZ    
-6.  cat regionAZ     
-7.  find /home/harry -iname oregon -exec cat {} \; >> regionAZ     
-8.  cat regionAZ     
-9.  find /home/harry -iname ohio -exec cat {} \;     
-10. find / -iname mumbai  -exec sh -c "echo hello world >> {}" \;
-11. find / -iname mumbai -exec chmod 777 {} \;
-
