@@ -1,1 +1,2 @@
 newfile
+New addition is added to this new file.
